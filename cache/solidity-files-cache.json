@@ -1,0 +1,81 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/macbook/corepump/contracts/CorePumpToken.sol": {
+      "lastModificationDate": 1722298606792,
+      "contentHash": "cc14319f727576b68477681ec63bde63",
+      "sourceName": "contracts/CorePumpToken.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "IERC20",
+        "Memecoin",
+        "Ownable"
+      ]
+    },
+    "/Users/macbook/corepump/contracts/BasicToken.sol": {
+      "lastModificationDate": 1722298554784,
+      "contentHash": "e4725a3ef1cb304221040e507362abc7",
+      "sourceName": "contracts/BasicToken.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "BasicToken",
+        "IERC20",
+        "Ownable"
+      ]
+    }
+  }
+}
